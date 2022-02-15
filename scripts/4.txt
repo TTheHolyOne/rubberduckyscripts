@@ -1,0 +1,6 @@
+DELAY 250
+CTRL t
+DELAY 500
+STRING chrome://inducebrowsercrashforrealz/
+DELAY 250
+ENTER

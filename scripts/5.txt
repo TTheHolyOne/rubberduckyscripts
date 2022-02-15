@@ -1,0 +1,9 @@
+DELAY 200
+STRING https://www.youtube.com/ttheholyone/?sub_confirmation=1
+ENTER
+DELAY 5000
+TAB
+TAB
+SPACE
+DELAY 1000
+CTRL w
